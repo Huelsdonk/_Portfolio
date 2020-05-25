@@ -28,7 +28,7 @@ function Contact() {
           <p className="card-text"><Mo href={"http://github.com/Huelsdonk"} text={"github.com/Huelsdonk"}/></p>
           <hr className="my-4"/>
           <h3 className="card-title"><img src="./../assets/LI-In-Bug.png" alt="linkedin" height="32px" width="36px"/></h3>
-          <p className="card-text"><Mo href={"https://www.linkedin.com/in/john-huntsperger-4854b01a1/"} text={"linkedin.com/in/john-huntsperger-4854b01a1"}/></p>
+          <p className="card-text"><Mo href={"https://www.linkedin.com/in/john-huntsperger/"} text={"linkedin.com/in/john-huntsperger"}/></p>
 
         </div>
       </div>
